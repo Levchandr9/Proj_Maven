@@ -7,6 +7,10 @@ public class MainAppication {
 
         System.out.printf("23");
         System.out.printf("23");
+        System.out.printf("23");
+        System.out.printf("23");
+        System.out.printf("23");
+        System.out.printf("23");
 
         System.out.println("Do something");
         System.out.println("1");
@@ -15,3 +19,4 @@ public class MainAppication {
         System.out.println("1234");
     }
 }
+
