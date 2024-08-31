@@ -12,11 +12,8 @@ public class MainAppication {
         System.out.printf("23");
         System.out.printf("23");
 
-        System.out.println("Do something");
-        System.out.println("1");
-        System.out.println("12");
-        System.out.println("123");
-        System.out.println("1234");
+
+        System.out.printf("Hello world");
     }
 }
 
