@@ -8,6 +8,8 @@ public class MainAppication {
         System.out.printf("23");
         System.out.printf("23");
         System.out.printf("23");
+        System.out.printf("DO SOMETHING");
+
         System.out.printf("23");
         System.out.printf("23");
         System.out.printf("23");
