@@ -7,7 +7,7 @@ public class BOX {
     }
 
     public BOX() {
-
+        System.out.printf("121");
     }
 }
 
