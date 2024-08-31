@@ -11,12 +11,12 @@ public class MainAppication {
         System.out.printf("23");
         System.out.printf("23");
         System.out.printf("23");
-}
-    public static void doesomething{
-        System.out.printf("Do something");
-        System.out.printf("Do something");
-        System.out.printf("Do something");
-        System.out.printf("Do something");
+
+        System.out.println("Do something");
+        System.out.println("1");
+        System.out.println("12");
+        System.out.println("123");
+        System.out.println("1234");
     }
 }
 
